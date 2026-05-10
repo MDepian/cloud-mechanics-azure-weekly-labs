@@ -26,8 +26,6 @@ We are thrilled to officially launch the **Weekly Azure Lab Series** — a pract
 
 Each session focuses on a **specific lab design**, broken down and implemented step-by-step together. No fluff, no slides-only theory — just real work in a real cloud environment.
 
-> 🤍 *"Built by the community, for the community."*
-
 ---
 
 ## 🗓️ Session Details
