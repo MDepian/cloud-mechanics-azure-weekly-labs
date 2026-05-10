@@ -1,9 +1,9 @@
-<div align="center">
+div align="center">
 
-<!-- Replace the line below with your actual logo image path after uploading -->
+
 <img src="profile.png" alt="Cloud Mechanics Logo" width="220"/>
 
-# Weekly Azure Lab Series
+# ☁️ Weekly Azure Lab Series
 
 **Hands-on Azure learning — one lab at a time.**
 
@@ -26,6 +26,7 @@ We are thrilled to officially launch the **Weekly Azure Lab Series** — a pract
 
 Each session focuses on a **specific lab design**, broken down and implemented step-by-step together. No fluff, no slides-only theory — just real work in a real cloud environment.
 
+
 ---
 
 ## 🗓️ Session Details
@@ -35,7 +36,7 @@ Each session focuses on a **specific lab design**, broken down and implemented s
 | 📅 **Schedule** | Every **Wednesday** |
 | 🕗 **Time** | **8:00 PM** — Egypt Time (UTC+2) |
 | 💻 **Platform** | Microsoft Teams |
-| 🎥 **Recordings** | Available after each session  |
+| 🎥 **Recordings** | Available after each session *(God willing)* |
 
 ---
 
@@ -109,7 +110,7 @@ The team currently handles **organizing, managing, and explaining** all labs —
 
 Session details and joining links will be announced **very soon!**
 
-- 🔗 Follow us on our community channels for announcements
+- 🔗 Follow us on our community repo: [3tallah/CloudMechanicsCommunity-Mentorship](https://github.com/3tallah/CloudMechanicsCommunity-Mentorship/tree/main)
 - 📢 Share this with anyone who wants to start their Azure journey
 - ⭐ Star this repo to stay notified of updates
 
