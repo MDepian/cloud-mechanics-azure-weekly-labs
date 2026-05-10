@@ -2,7 +2,7 @@
 
 <img src="../profile.png" alt="Cloud Mechanics Logo" width="180"/>
 
-# 🧪 Weekly Azure Labs
+# Weekly Azure Labs
 
 **Practical. Structured. Community-Driven.**
 
