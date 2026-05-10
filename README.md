@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the line below with your actual logo image path after uploading -->
-<img src="OIP.png" alt="Cloud Mechanics Logo" width="220"/>
+<img src="profile.png" alt="Cloud Mechanics Logo" width="220"/>
 
 # ☁️ Weekly Azure Lab Series
 
