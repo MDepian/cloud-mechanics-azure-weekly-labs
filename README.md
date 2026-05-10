@@ -1,5 +1,5 @@
 
-div align="center">
+<div align="center">
 
 <img src="profile.png" alt="Cloud Mechanics Logo" width="220"/>
 
