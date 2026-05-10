@@ -35,7 +35,7 @@ Each session focuses on a **specific lab design**, broken down and implemented s
 | 📅 **Schedule** | Every **Wednesday** |
 | 🕗 **Time** | **8:00 PM** — Egypt Time (UTC+2) |
 | 💻 **Platform** | Microsoft Teams |
-| 🎥 **Recordings** | Available after each session *(God willing)* |
+| 🎥 **Recordings** | Available after each session  |
 
 ---
 
