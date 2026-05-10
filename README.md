@@ -3,7 +3,7 @@
 
 <img src="profile.png" alt="Cloud Mechanics Logo" width="220"/>
 
-# ☁️ Weekly Azure Lab Series
+# Weekly Azure Lab Series
 
 **Hands-on Azure learning — one lab at a time.**
 
